@@ -27,4 +27,4 @@ Advanced AI, cloud deployment, production-grade Docker, full-stack integration
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vritid&show_icons=true&theme=radical)
