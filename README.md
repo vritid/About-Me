@@ -2,8 +2,8 @@
 
 **Computer Science @ Uoft | Governor General’s Academic Medal Recipient ’24**  
 
-Interested in data-driven decision making, focusing on predictive modeling, statistical analysis, and data visualization to solve real-world problems. 
-I enjoy working with tools like Python, SQL, and Power BI to extract insights and communicate them effectively!
+Passionate about **building end-to-end data solutions** — from **AI model development and analytics** to **cloud deployment and full-stack integration**. My interests lie in **scalable ML systems, Dockerized production pipelines, and data-driven applications** that bridge AI with real-world usability.
+
 
 ---
 
