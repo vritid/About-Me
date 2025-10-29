@@ -1,6 +1,9 @@
-# 👋 Hi, I’m Vriti Dahiya
+# 👋 Hi, I’m Vriti
 
 **Computer Science @ Uoft | Governor General’s Academic Medal Recipient ’24**  
+
+Interested in data-driven decision making, focusing on predictive modeling, statistical analysis, and data visualization to solve real-world problems. 
+I enjoy working with tools like Python, SQL, and Power BI to extract insights and communicate them effectively!
 
 ---
 
