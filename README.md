@@ -5,14 +5,30 @@
 ---
 
 ## 💻 Tech Stack
+**Languages & Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Web & Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Backend & APIs:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-000000?style=for-the-badge&logoColor=white)
-![Gemini 2.5 Pro](https://img.shields.io/badge/Gemini_2.5_Pro-FF69B4?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**File & Document Processing:**  
+Python, PyPDF2 (PDFs), image handling for scanned docs  
+
+**AI & Machine Learning:**  
+![Gemini 2.5 Pro](https://img.shields.io/badge/Gemini_2.5_Pro-FF69B4?style=for-the-badge&logoColor=white)  
+
+**Testing & Deployment:**  
+Postman / curl for API testing, Local server with Uvicorn  
 
 ---
 
