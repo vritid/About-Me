@@ -2,7 +2,7 @@
 
 **Computer Science @ Uoft | Governor General’s Academic Medal Recipient ’24**  
 
-Passionate about **building end-to-end data solutions** — from **AI model development and analytics** to **cloud deployment and full-stack integration**. My interests lie in **scalable ML systems, Dockerized production pipelines, and data-driven applications** that bridge AI with real-world usability.
+Passionate about **building end-to-end data solutions** from **AI model development and analytics** to **cloud deployment and full-stack integration**. My interests lie in **scalable ML systems, Dockerized production pipelines, and data-driven applications** that bridge AI with real-world usability.
 
 
 ---
