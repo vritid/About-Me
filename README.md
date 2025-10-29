@@ -50,6 +50,3 @@ Advanced AI, cloud deployment, production-grade Docker, full-stack integration
 [![Devpost](https://img.shields.io/badge/Devpost-FF7F00?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/vritid)
 
 ---
-
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vritid&show_icons=true&theme=radical)
