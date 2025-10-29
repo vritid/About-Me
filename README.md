@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Vriti!
 
-**Computer Science @ Uoft*  
+**Computer Science Spec @ Uoft**
 
-Passionate about **building end-to-end data solutions** from **AI model development and analytics** to **cloud deployment and full-stack integration**. My interests lie in **scalable ML systems, Dockerized production pipelines, and data-driven applications** that bridge AI with real-world usability.
+Passionate about **building end-to-end data solutions** from **AI model development and analytics** to **cloud deployment and full-stack integration**. My interests lie in **scalable ML systems, Dockerized production pipelines, and data-driven applications** that connect AI with real-world usability.
 
 
 ---
@@ -45,7 +45,7 @@ Postman / curl for API testing, Local server with Uvicorn
 ---
 
 ## 🌱 Currently Learning
-Advanced AI, cloud deployment, production-grade Docker, full-stack integration  
+Advanced AI, cloud deployment, production-grade Docker, full-stack integration
 ---
 
 ## 📫 Connect
